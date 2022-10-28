@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lukb.guxjetbrainsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lukb.guxjetbrainsplugin.MyBundle
 
 class MyApplicationService {
 
